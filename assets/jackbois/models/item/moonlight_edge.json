@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld_rod",
     "textures": {
-        "layer0": "1_splatus:item/moonlight_edge"
+        "layer0": "jackbois:item/moonlight_edge"
     },
     "display": {
         "thirdperson_righthand": {

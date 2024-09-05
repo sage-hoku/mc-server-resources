@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld_rod",
     "textures": {
-        "layer0": "1_splatus:item/end_excalibur"
+        "layer0": "jackbois:item/end_excalibur"
     },
     "display": {
         "thirdperson_righthand": {

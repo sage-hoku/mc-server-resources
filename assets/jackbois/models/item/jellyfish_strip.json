@@ -1,6 +1,6 @@
 {
     "parent": "item/dried_kelp",
     "textures": {
-        "layer0": "1_splatus:item/jellyfish_strip"
+        "layer0": "jackbois:item/jellyfish_strip"
     }
 }

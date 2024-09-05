@@ -1,7 +1,7 @@
 {
-    "parent": "1_splatus:item/hammer",
+    "parent": "jackbois:item/hammer",
     "textures": {
-        "layer0": "1_splatus:item/hammer",
-        "layer1": "1_splatus:item/hammer_ready"
+        "layer0": "jackbois:item/hammer",
+        "layer1": "jackbois:item/hammer_ready"
     }
 }

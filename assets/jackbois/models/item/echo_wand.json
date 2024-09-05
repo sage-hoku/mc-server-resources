@@ -1,6 +1,6 @@
 {
     "parent": "item/fishing_rod",
     "textures": {
-        "layer0": "1_splatus:item/echo_wand"
+        "layer0": "jackbois:item/echo_wand"
     }
 }

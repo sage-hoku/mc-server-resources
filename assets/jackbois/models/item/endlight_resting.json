@@ -1,6 +1,6 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "1_splatus:item/endlight_resting"
+        "layer0": "jackbois:item/endlight_resting"
     }
 }

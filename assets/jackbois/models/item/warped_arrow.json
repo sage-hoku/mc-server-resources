@@ -1,6 +1,6 @@
 {
-    "parent": "1_splatus:item/warped",
+    "parent": "jackbois:item/warped",
     "textures": {
-        "layer0": "1_splatus:item/warped_arrow"
+        "layer0": "jackbois:item/warped_arrow"
     }
 }

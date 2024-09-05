@@ -8,13 +8,13 @@
       "predicate": {
         "custom_model_data": 27002
       },
-      "model": "1_splatus:item/windswept"
+      "model": "jackbois:item/windswept"
   },
   {
     "predicate": {
       "custom_model_data": 27003
     },
-    "model": "1_splatus:item/withering_sword"
+    "model": "jackbois:item/withering_sword"
 }
 ]
 }

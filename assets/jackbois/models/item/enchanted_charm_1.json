@@ -1,6 +1,6 @@
 {
     "parent": "item/enchanted_book",
     "textures": {
-        "layer0": "1_splatus:item/enchanted_charm_1"
+        "layer0": "jackbois:item/enchanted_charm_1"
     }
 }

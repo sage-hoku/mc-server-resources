@@ -1,7 +1,7 @@
 {
     "parent": "item/iron_sword",
     "textures": {
-        "layer0": "1_splatus:item/evokers_wrath_ready"
+        "layer0": "jackbois:item/evokers_wrath_ready"
     } ,
     "display": {
         "thirdperson_righthand": {

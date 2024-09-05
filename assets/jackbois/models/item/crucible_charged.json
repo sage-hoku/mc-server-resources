@@ -1,7 +1,7 @@
 {
-    "parent": "1_splatus:item/crucible_base",
+    "parent": "jackbois:item/crucible_base",
     "textures": {
-        "layer0": "1_splatus:item/crucible/crucible_charged"
+        "layer0": "jackbois:item/crucible/crucible_charged"
     },
     "display": {
         "thirdperson_righthand": {

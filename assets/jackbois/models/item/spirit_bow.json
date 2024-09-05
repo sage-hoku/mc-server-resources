@@ -1,6 +1,6 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "1_splatus:item/spirit_bow"
+        "layer0": "jackbois:item/spirit_bow"
     }
 }

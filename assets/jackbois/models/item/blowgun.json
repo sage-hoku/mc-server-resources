@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "1_splatus:item/blowgun_normalts"
+        "layer0": "jackbois:item/blowgun_normalts"
     },
     "display": {
         "thirdperson_righthand": {
@@ -34,14 +34,14 @@
             "predicate": {
                 "custom_model_data": 47032
             },
-            "model": "1_splatus:item/blowgun_normalts"
+            "model": "jackbois:item/blowgun_normalts"
         },
         {
             "predicate": {
                 "custom_model_data": 47032,
                 "pulling": 1
             },
-            "model": "1_splatus:item/blowgun_charged"
+            "model": "jackbois:item/blowgun_charged"
         },
         {
             "predicate": {
@@ -49,7 +49,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "1_splatus:item/blowgun_charged"
+            "model": "jackbois:item/blowgun_charged"
         },
         {
             "predicate": {
@@ -57,7 +57,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "1_splatus:item/blowgun_charged"
+            "model": "jackbois:item/blowgun_charged"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "1_splatus:item/endlight_resting"
+        "layer0": "jackbois:item/endlight_resting"
     },
     "display": {
         "thirdperson_righthand": {
@@ -33,7 +33,7 @@
             "predicate": {
                 "custom_model_data": 47031
             },
-            "model": "1_splatus:item/endlight_resting"
+            "model": "jackbois:item/endlight_resting"
         },
         {
             "predicate": {

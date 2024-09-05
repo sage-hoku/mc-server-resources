@@ -1,7 +1,7 @@
 {
     "parent": "item/iron_sword",
     "textures": {
-        "layer0": "1_splatus:item/burnt_4"
+        "layer0": "jackbois:item/burnt_4"
         
     }
     ,

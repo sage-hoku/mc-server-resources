@@ -1,7 +1,7 @@
 {
 	"parent": "item/crossbow",
 	"textures": {
-		"layer0": "1_splatus:item/chainfiring"
+		"layer0": "jackbois:item/chainfiring"
     },
     "display": {
         "thirdperson_righthand": {
@@ -31,34 +31,34 @@
             "predicate": {
                 "pulling": 1
             },
-            "model": "1_splatus:item/chainfiring_pulling_0"
+            "model": "jackbois:item/chainfiring_pulling_0"
         },
         {
             "predicate": {
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "1_splatus:item/chainfiring_pulling_1"
+            "model": "jackbois:item/chainfiring_pulling_1"
         },
         {
             "predicate": {
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "1_splatus:item/chainfiring_pulling_2"
+            "model": "jackbois:item/chainfiring_pulling_2"
         },
         {
             "predicate": {
                 "charged": 1
             },
-            "model": "1_splatus:item/chainfiring_arrow"
+            "model": "jackbois:item/chainfiring_arrow"
         },
         {
             "predicate": {
                 "charged": 1,
                 "firework": 1
             },
-            "model": "1_splatus:item/chainfiring_firework"
+            "model": "jackbois:item/chainfiring_firework"
         }
     ]
 }

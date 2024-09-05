@@ -1,6 +1,6 @@
 {
     "parent": "item/iron_shovel",
     "textures": {
-        "layer0": "1_splatus:item/dagger_gold"
+        "layer0": "jackbois:item/dagger_gold"
     }
 }

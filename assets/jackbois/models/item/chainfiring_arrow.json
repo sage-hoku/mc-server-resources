@@ -1,6 +1,6 @@
 {
-    "parent": "1_splatus:item/chainfiring",
+    "parent": "jackbois:item/chainfiring",
     "textures": {
-        "layer0": "1_splatus:item/chainfiring_arrow"
+        "layer0": "jackbois:item/chainfiring_arrow"
     }
 }

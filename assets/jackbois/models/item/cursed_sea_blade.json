@@ -1,6 +1,6 @@
 {
     "parent": "item/stone_sword",
     "textures": {
-        "layer0": "1_splatus:item/cursed_sea_blade"
+        "layer0": "jackbois:item/cursed_sea_blade"
     }
 }

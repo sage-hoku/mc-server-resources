@@ -1,6 +1,6 @@
 {
     "parent": "item/iron_sword",
     "textures": {
-        "layer0": "1_splatus:item/wave_caster"
+        "layer0": "jackbois:item/wave_caster"
     }
 }
