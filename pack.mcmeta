@@ -1,9 +1,9 @@
 {
     "pack": {
-      "pack_format": 34,
+      "pack_format": 36,
       "description": [
         {
-          "translate": "Resource Pack Additions v0.2",
+          "translate": "Resource Pack Additions v0.1.4",
           "color": "#ebff66"
         },
         {
