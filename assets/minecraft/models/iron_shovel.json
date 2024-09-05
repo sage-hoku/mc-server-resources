@@ -8,19 +8,19 @@
     "predicate": {
       "custom_model_data": 47018
     },
-    "model": "1_splatus:item/dagger"
+    "model": "jackbois:item/dagger"
   },
   {
     "predicate": {
       "custom_model_data": 47019
     },
-    "model": "1_splatus:item/dagger_gold"
+    "model": "jackbois:item/dagger_gold"
   },
   {
     "predicate": {
       "custom_model_data": 47020
     },
-    "model": "1_splatus:item/dagger_diamond"
+    "model": "jackbois:item/dagger_diamond"
   }
   
 ]

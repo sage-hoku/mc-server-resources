@@ -8,13 +8,13 @@
       "predicate": {
         "custom_model_data": 47044
       },
-      "model": "1_splatus:item/crucible_broken"
+      "model": "jackbois:item/crucible_broken"
     },
     {
       "predicate": {
               "custom_model_data": 87005
           },
-          "model": "1_splatus:item/key"
+          "model": "jackbois:item/key"
       }
   ]
 }

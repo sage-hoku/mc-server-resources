@@ -69,14 +69,14 @@
               "custom_model_data": 47030
               
             },
-            "model": "1_splatus:item/chainfiring_resting"
+            "model": "jackbois:item/chainfiring_resting"
           },
           {
             "predicate": {
               "custom_model_data": 47030,
               "pulling": 1
             },
-            "model": "1_splatus:item/chainfiring_pulling_0"
+            "model": "jackbois:item/chainfiring_pulling_0"
           },
           {
             "predicate": {
@@ -85,7 +85,7 @@
               "pull": 0.58
               
             },
-            "model": "1_splatus:item/chainfiring_pulling_1"
+            "model": "jackbois:item/chainfiring_pulling_1"
           },
           {
             "predicate": {
@@ -93,7 +93,7 @@
               "pulling": 1,
               "pull": 1.0
             },
-            "model": "1_splatus:item/chainfiring_pulling_2"
+            "model": "jackbois:item/chainfiring_pulling_2"
           },
           {
             "predicate": {
@@ -101,7 +101,7 @@
               "charged": 1
                 
             },
-            "model": "1_splatus:item/chainfiring_arrow"
+            "model": "jackbois:item/chainfiring_arrow"
           },
           {
             "predicate": {
@@ -109,7 +109,7 @@
               "charged": 1,
                 "firework": 1
             },
-            "model": "1_splatus:item/chainfiring_firework"
+            "model": "jackbois:item/chainfiring_firework"
           },
 
 
@@ -124,14 +124,14 @@
             "custom_model_data": 47033
             
           },
-          "model": "1_splatus:item/warped_resting"
+          "model": "jackbois:item/warped_resting"
         },
         {
           "predicate": {
             "custom_model_data": 47033,
             "pulling": 1
           },
-          "model": "1_splatus:item/warped_pulling_0"
+          "model": "jackbois:item/warped_pulling_0"
         },
         {
           "predicate": {
@@ -140,7 +140,7 @@
             "pull": 0.58
             
           },
-          "model": "1_splatus:item/warped_pulling_1"
+          "model": "jackbois:item/warped_pulling_1"
         },
         {
           "predicate": {
@@ -148,7 +148,7 @@
             "pulling": 1,
             "pull": 1.0
           },
-          "model": "1_splatus:item/warped_pulling_2"
+          "model": "jackbois:item/warped_pulling_2"
         },
         {
           "predicate": {
@@ -156,7 +156,7 @@
             "charged": 1
               
           },
-          "model": "1_splatus:item/warped_arrow"
+          "model": "jackbois:item/warped_arrow"
         },
         {
           "predicate": {
@@ -164,7 +164,7 @@
             "charged": 1,
               "firework": 1
           },
-          "model": "1_splatus:item/warped_firework"
+          "model": "jackbois:item/warped_firework"
         }
         
           

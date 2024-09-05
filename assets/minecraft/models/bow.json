@@ -105,14 +105,14 @@
             "predicate": {
                 "custom_model_data": 27014
             },
-            "model": "1_splatus:item/phantom_resting"
+            "model": "jackbois:item/phantom_resting"
         },
         {
             "predicate": {
                 "custom_model_data": 27014,
                 "pulling": 1
             },
-            "model": "1_splatus:item/phantom_pulling_0"
+            "model": "jackbois:item/phantom_pulling_0"
         },
         {
             "predicate": {
@@ -120,7 +120,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "1_splatus:item/phantom_pulling_1"
+            "model": "jackbois:item/phantom_pulling_1"
         },
         {
             "predicate": {
@@ -128,7 +128,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "1_splatus:item/phantom_pulling_2"
+            "model": "jackbois:item/phantom_pulling_2"
         },
 
         
@@ -137,14 +137,14 @@
             "predicate": {
                 "custom_model_data": 27015
             },
-            "model": "1_splatus:item/frost_resting"
+            "model": "jackbois:item/frost_resting"
         },
         {
             "predicate": {
                 "custom_model_data": 27015,
                 "pulling": 1
             },
-            "model": "1_splatus:item/frost_pulling_0"
+            "model": "jackbois:item/frost_pulling_0"
         },
         {
             "predicate": {
@@ -152,7 +152,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "1_splatus:item/frost_pulling_1"
+            "model": "jackbois:item/frost_pulling_1"
         },
         {
             "predicate": {
@@ -160,7 +160,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "1_splatus:item/frost_pulling_2"
+            "model": "jackbois:item/frost_pulling_2"
         },
 
 
@@ -174,14 +174,14 @@
             "predicate": {
                 "custom_model_data": 47031
             },
-            "model": "1_splatus:item/endlight_resting"
+            "model": "jackbois:item/endlight_resting"
         },
         {
             "predicate": {
                 "custom_model_data": 47031,
                 "pulling": 1
             },
-            "model": "1_splatus:item/endlight_pulling_0"
+            "model": "jackbois:item/endlight_pulling_0"
         },
         {
             "predicate": {
@@ -189,7 +189,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "1_splatus:item/endlight_pulling_1"
+            "model": "jackbois:item/endlight_pulling_1"
         },
         {
             "predicate": {
@@ -197,7 +197,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "1_splatus:item/endlight_pulling_2"
+            "model": "jackbois:item/endlight_pulling_2"
         },
 
 
@@ -207,14 +207,14 @@
             "predicate": {
                 "custom_model_data": 47032
             },
-            "model": "1_splatus:item/blowgun_normalts"
+            "model": "jackbois:item/blowgun_normalts"
         },
         {
             "predicate": {
                 "custom_model_data": 47032,
                 "pulling": 1
             },
-            "model": "1_splatus:item/blowgun_charged"
+            "model": "jackbois:item/blowgun_charged"
         },
         {
             "predicate": {
@@ -222,7 +222,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "1_splatus:item/blowgun_charged"
+            "model": "jackbois:item/blowgun_charged"
         },
         {
             "predicate": {
@@ -230,7 +230,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "1_splatus:item/blowgun_charged"
+            "model": "jackbois:item/blowgun_charged"
         }
 
 
@@ -241,14 +241,14 @@
             "predicate": {
                 "custom_model_data": 47040
             },
-            "model": "1_splatus:item/magmus_resting"
+            "model": "jackbois:item/magmus_resting"
         },
         {
             "predicate": {
                 "custom_model_data": 47040,
                 "pulling": 1
             },
-            "model": "1_splatus:item/magmus_pulling_0"
+            "model": "jackbois:item/magmus_pulling_0"
         },
         {
             "predicate": {
@@ -256,7 +256,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "1_splatus:item/magmus_pulling_1"
+            "model": "jackbois:item/magmus_pulling_1"
         },
         {
             "predicate": {
@@ -264,25 +264,25 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "1_splatus:item/magmus_pulling_2"
+            "model": "jackbois:item/magmus_pulling_2"
         },
         {
             "predicate": {
                 "custom_model_data": 47041
             },
-            "model": "1_splatus:item/magmus_fire"
+            "model": "jackbois:item/magmus_fire"
         },
         {
             "predicate": {
                 "custom_model_data": 47042
             },
-            "model": "1_splatus:item/magmus_fire1"
+            "model": "jackbois:item/magmus_fire1"
         },
         {
             "predicate": {
                 "custom_model_data": 47043
             },
-            "model": "1_splatus:item/magmus_fire2"
+            "model": "jackbois:item/magmus_fire2"
         },
 
 
@@ -291,14 +291,14 @@
             "predicate": {
                 "custom_model_data": 87002
             },
-            "model": "1_splatus:item/spirit_bow"
+            "model": "jackbois:item/spirit_bow"
         },
         {
             "predicate": {
                 "custom_model_data": 87002,
                 "pulling": 1
             },
-            "model": "1_splatus:item/spirit_bow0"
+            "model": "jackbois:item/spirit_bow0"
         },
         {
             "predicate": {
@@ -306,7 +306,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "1_splatus:item/spirit_bow1"
+            "model": "jackbois:item/spirit_bow1"
         },
         {
             "predicate": {
@@ -314,7 +314,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "1_splatus:item/spirit_bow2"
+            "model": "jackbois:item/spirit_bow2"
         }
 
 

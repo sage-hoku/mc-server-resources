@@ -8,44 +8,44 @@
       "predicate": {
         "custom_model_data": 47001
       },
-      "model": "1_splatus:item/end_excalibur"
+      "model": "jackbois:item/end_excalibur"
     },
     {
       "predicate": {
         "custom_model_data": 47002
       },
-      "model": "1_splatus:item/end_excalibur_ready"
+      "model": "jackbois:item/end_excalibur_ready"
     },
     {
       "predicate": {
         "custom_model_data": 47003
       },
-      "model": "1_splatus:item/end_excalibur_ready_loop"
+      "model": "jackbois:item/end_excalibur_ready_loop"
     },
     {
       "predicate": {
         "custom_model_data": 47014
       },
-      "model": "1_splatus:item/windsweeper"
+      "model": "jackbois:item/windsweeper"
     },
 
     {
       "predicate": {
         "custom_model_data": 47015
       },
-      "model": "1_splatus:item/withering_sword_v2"
+      "model": "jackbois:item/withering_sword_v2"
     },
     {
       "predicate": {
         "custom_model_data": 47042
       },
-      "model": "1_splatus:item/crucible"
+      "model": "jackbois:item/crucible"
     },
     {
       "predicate": {
         "custom_model_data": 47043
       },
-      "model": "1_splatus:item/crucible/charged"
+      "model": "jackbois:item/crucible/charged"
     },
     
 
@@ -54,26 +54,26 @@
       "predicate": {
         "custom_model_data": 47046
       },
-      "model": "1_splatus:item/moonlight_edge"
+      "model": "jackbois:item/moonlight_edge"
     },
     
     {
       "predicate": {
         "custom_model_data": 47047
       },
-      "model": "1_splatus:item/moonlight_edge_charged"
+      "model": "jackbois:item/moonlight_edge_charged"
     },
     {
       "predicate": {
         "custom_model_data": 47050
       },
-      "model": "1_splatus:item/thorn_blossom_diamond"
+      "model": "jackbois:item/thorn_blossom_diamond"
     },
     {
       "predicate": {
         "custom_model_data": 47051
       },
-      "model": "1_splatus:item/thorn_blossom_diamond_pink"
+      "model": "jackbois:item/thorn_blossom_diamond_pink"
     }
     
 
@@ -84,91 +84,91 @@
       "predicate": {
         "custom_model_data": 47202
       },
-      "model": "1_splatus:item/crucible2"
+      "model": "jackbois:item/crucible2"
     },
     {
       "predicate": {
         "custom_model_data": 47203
       },
-      "model": "1_splatus:item/crucible3"
+      "model": "jackbois:item/crucible3"
     },
     {
       "predicate": {
         "custom_model_data": 47204
       },
-      "model": "1_splatus:item/crucible4"
+      "model": "jackbois:item/crucible4"
     },
     {
       "predicate": {
         "custom_model_data": 47205
       },
-      "model": "1_splatus:item/crucible5"
+      "model": "jackbois:item/crucible5"
     },
     {
       "predicate": {
         "custom_model_data": 47206
       },
-      "model": "1_splatus:item/crucible6"
+      "model": "jackbois:item/crucible6"
     },
     {
       "predicate": {
         "custom_model_data": 47207
       },
-      "model": "1_splatus:item/crucible7"
+      "model": "jackbois:item/crucible7"
     },
     {
       "predicate": {
         "custom_model_data": 47208
       },
-      "model": "1_splatus:item/crucible8"
+      "model": "jackbois:item/crucible8"
     },
     {
       "predicate": {
         "custom_model_data": 47209
       },
-      "model": "1_splatus:item/crucible9"
+      "model": "jackbois:item/crucible9"
     },
     {
       "predicate": {
         "custom_model_data": 47210
       },
-      "model": "1_splatus:item/crucible10"
+      "model": "jackbois:item/crucible10"
     },
     {
       "predicate": {
         "custom_model_data": 47211
       },
-      "model": "1_splatus:item/crucible11"
+      "model": "jackbois:item/crucible11"
     },
     {
       "predicate": {
         "custom_model_data": 47212
       },
-      "model": "1_splatus:item/crucible12"
+      "model": "jackbois:item/crucible12"
     },
     {
       "predicate": {
         "custom_model_data": 47213
       },
-      "model": "1_splatus:item/crucible13"
+      "model": "jackbois:item/crucible13"
     },
     {
       "predicate": {
         "custom_model_data": 47214
       },
-      "model": "1_splatus:item/crucible14"
+      "model": "jackbois:item/crucible14"
     },
     {
       "predicate": {
         "custom_model_data": 47215
       },
-      "model": "1_splatus:item/crucible15"
+      "model": "jackbois:item/crucible15"
     },
     {
       "predicate": {
         "custom_model_data": 47216
       },
-      "model": "1_splatus:item/crucible16"
+      "model": "jackbois:item/crucible16"
     },
     {
       "predicate": {

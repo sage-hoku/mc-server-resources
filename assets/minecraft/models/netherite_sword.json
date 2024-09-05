@@ -11,39 +11,39 @@
       "predicate": {
         "custom_model_data": 47001
       },
-      "model": "1_splatus:item/burnt_end_excalibur"
+      "model": "jackbois:item/burnt_end_excalibur"
     },
     {
       "predicate": {
         "custom_model_data": 47014
       },
-      "model": "1_splatus:item/burnt_windsweeper"
+      "model": "jackbois:item/burnt_windsweeper"
     },
     {
       "predicate": {
         "custom_model_data": 47015
       },
-      "model": "1_splatus:item/burnt_witherblade"
+      "model": "jackbois:item/burnt_witherblade"
     }
     ,
     {
       "predicate": {
         "custom_model_data": 47042
       },
-      "model": "1_splatus:item/burnt_crucible"
+      "model": "jackbois:item/burnt_crucible"
     }
     ,
     {
       "predicate": {
         "custom_model_data": 47046
       },
-      "model": "1_splatus:item/burnt_moonlight_edge"
+      "model": "jackbois:item/burnt_moonlight_edge"
     },
     {
       "predicate": {
         "custom_model_data": 47050
       },
-      "model": "1_splatus:item/thorn_blossom_burnt"
+      "model": "jackbois:item/thorn_blossom_burnt"
     },
     
     
@@ -55,7 +55,7 @@
       "predicate": {
         "custom_model_data": 47995
       },
-      "model": "1_splatus:item/unused/light"
+      "model": "jackbois:item/unused/light"
     }
     
 
