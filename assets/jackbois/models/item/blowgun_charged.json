@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "1_splatus:item/blowgun2"
+        "layer0": "jackbois:item/blowgun2"
     },
     "display": {
         "thirdperson_righthand": {

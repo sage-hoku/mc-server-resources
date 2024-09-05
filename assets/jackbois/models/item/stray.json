@@ -1,6 +1,6 @@
 {
     "parent": "item/chainmail_helmet",
     "textures": {
-        "layer0": "1_splatus:item/stray"
+        "layer0": "jackbois:item/stray"
     }
 }

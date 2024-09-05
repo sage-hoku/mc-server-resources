@@ -1,7 +1,7 @@
 {
     "parent": "item/iron_sword",
     "textures": {
-        "layer0": "1_splatus:item/withering_sword_v3"
+        "layer0": "jackbois:item/withering_sword_v3"
     },
     "display": {
         "thirdperson_righthand": {

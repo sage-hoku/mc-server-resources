@@ -1,7 +1,7 @@
 {
     "parent": "item/iron_sword",
     "textures": {
-        "layer0": "1_splatus:item/thorn_blossom/normal"
+        "layer0": "jackbois:item/thorn_blossom/normal"
     },
     "display": {
         "thirdperson_righthand": {

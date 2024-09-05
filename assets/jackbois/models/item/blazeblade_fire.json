@@ -1,7 +1,7 @@
 {
     "parent": "item/iron_sword",
     "textures": {
-        "layer0": "1_splatus:item/blazeblade_fire"
+        "layer0": "jackbois:item/blazeblade_fire"
     } ,
     "display": {
         "thirdperson_righthand": {

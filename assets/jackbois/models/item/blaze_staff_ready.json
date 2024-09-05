@@ -1,6 +1,6 @@
 {
     "parent": "item/fishing_rod",
     "textures": {
-        "layer0": "1_splatus:item/blaze_staff_ready"
+        "layer0": "jackbois:item/blaze_staff_ready"
     }
 }

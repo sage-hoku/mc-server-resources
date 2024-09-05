@@ -1,7 +1,7 @@
 {
     "parent": "item/iron_axe",
     "textures": {
-        "layer0": "1_splatus:item/hammer"
+        "layer0": "jackbois:item/hammer"
     },
     "display": {
         "thirdperson_righthand": {

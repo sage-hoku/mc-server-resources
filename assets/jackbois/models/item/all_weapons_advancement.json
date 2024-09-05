@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "1_splatus:item/all_weapons_advancement"
+        "layer0": "jackbois:item/all_weapons_advancement"
     }
 }

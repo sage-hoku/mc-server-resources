@@ -1,6 +1,6 @@
 {
     "parent": "item/knowledge_book",
     "textures": {
-        "layer0": "1_splatus:item/white_staff"
+        "layer0": "jackbois:item/white_staff"
     }
 }

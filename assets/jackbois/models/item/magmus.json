@@ -1,7 +1,7 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "1_splatus:item/magmus_resting"
+        "layer0": "jackbois:item/magmus_resting"
     },
     "display": {
         "thirdperson_righthand": {
@@ -33,14 +33,14 @@
             "predicate": {
                 "custom_model_data": 47040
             },
-            "model": "1_splatus:item/magmus_resting"
+            "model": "jackbois:item/magmus_resting"
         },
         {
             "predicate": {
                 "custom_model_data": 47040,
                 "pulling": 1
             },
-            "model": "1_splatus:item/magmus_pulling_0"
+            "model": "jackbois:item/magmus_pulling_0"
         },
         {
             "predicate": {
@@ -48,7 +48,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "1_splatus:item/magmus_pulling_1"
+            "model": "jackbois:item/magmus_pulling_1"
         },
         {
             "predicate": {
@@ -56,7 +56,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "1_splatus:item/magmus_pulling_2"
+            "model": "jackbois:item/magmus_pulling_2"
         },
         {
             "predicate": {
@@ -64,7 +64,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "1_splatus:item/magmus_fire"
+            "model": "jackbois:item/magmus_fire"
         }
     ]
 }

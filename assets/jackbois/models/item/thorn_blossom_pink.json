@@ -1,6 +1,6 @@
 {
-    "parent": "1_splatus:item/thorn_blossom",
+    "parent": "jackbois:item/thorn_blossom",
     "textures": {
-        "layer0": "1_splatus:item/thorn_blossom/pink"
+        "layer0": "jackbois:item/thorn_blossom/pink"
     }
 }

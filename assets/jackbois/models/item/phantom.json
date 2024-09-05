@@ -1,7 +1,7 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "1_splatus:item/phantom_resting"
+        "layer0": "jackbois:item/phantom_resting"
     },
     "display": {
         "thirdperson_righthand": {
@@ -33,14 +33,14 @@
             "predicate": {
                 "custom_model_data": 27014
             },
-            "model": "1_splatus:item/phantom_resting"
+            "model": "jackbois:item/phantom_resting"
         },
         {
             "predicate": {
                 "custom_model_data": 27014,
                 "pulling": 1
             },
-            "model": "1_splatus:item/phantom_pulling_0"
+            "model": "jackbois:item/phantom_pulling_0"
         },
         {
             "predicate": {
@@ -48,7 +48,7 @@
                 "pulling": 1,
                 "pull": 0.65
             },
-            "model": "1_splatus:item/phantom_pulling_1"
+            "model": "jackbois:item/phantom_pulling_1"
         },
         {
             "predicate": {
@@ -56,7 +56,7 @@
                 "pulling": 1,
                 "pull": 0.9
             },
-            "model": "1_splatus:item/phantom_pulling_2"
+            "model": "jackbois:item/phantom_pulling_2"
         }
     ]
 }

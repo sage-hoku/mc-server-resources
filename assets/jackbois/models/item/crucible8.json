@@ -1,6 +1,6 @@
 {
     "parent": "jackbois:item/crucible_base",
     "textures": {
-        "layer0": "1_splatus:item/crucible/blue"
+        "layer0": "jackbois:item/crucible/blue"
     }
 }

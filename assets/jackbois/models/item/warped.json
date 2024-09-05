@@ -1,7 +1,7 @@
 {
 	"parent": "item/crossbow",
 	"textures": {
-		"layer0": "1_splatus:item/warped"
+		"layer0": "jackbois:item/warped"
     },
     "display": {
         "thirdperson_righthand": {
@@ -31,34 +31,34 @@
             "predicate": {
                 "pulling": 1
             },
-            "model": "1_splatus:item/warped_pulling_0"
+            "model": "jackbois:item/warped_pulling_0"
         },
         {
             "predicate": {
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "1_splatus:item/warped_pulling_1"
+            "model": "jackbois:item/warped_pulling_1"
         },
         {
             "predicate": {
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "1_splatus:item/warped_pulling_2"
+            "model": "jackbois:item/warped_pulling_2"
         },
         {
             "predicate": {
                 "charged": 1
             },
-            "model": "1_splatus:item/warped_arrow"
+            "model": "jackbois:item/warped_arrow"
         },
         {
             "predicate": {
                 "charged": 1,
                 "firework": 1
             },
-            "model": "1_splatus:item/warped_firework"
+            "model": "jackbois:item/warped_firework"
         }
     ]
 }

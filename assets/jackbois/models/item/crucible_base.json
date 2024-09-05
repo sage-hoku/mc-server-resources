@@ -1,7 +1,7 @@
 {
     "parent": "item/diamond_sword",
     "textures": {
-        "layer0": "1_splatus:item/crucible/red"
+        "layer0": "jackbois:item/crucible/red"
     },
    
     "display": {

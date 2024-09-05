@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "1_splatus:item/electric_staff"
+        "layer0": "jackbois:item/electric_staff"
     }
 }
